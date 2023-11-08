@@ -1,0 +1,2 @@
+https://github.com/tkipf/gcn
+https://github.com/dmlc/dgl/blob/master/examples/mxnet/gcn/gcn.py

@@ -4,3 +4,4 @@
 3 - GNN for image classification/object detection:
     1 - feature pyramid netwwork + GCN   
     2 - FPN + (CNN for classification OR any method that serv this task) # cna't do it because you sh
+    

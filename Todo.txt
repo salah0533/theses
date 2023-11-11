@@ -1,5 +1,7 @@
 [todo]
 1 - understand the explanability on GNN methods with specifying the cons and the task that serv
+    [modifyed this task]
+    1- for specfic task search for explanability methods
 2 - search for GNN's for classification/opject detection task
 3 - GNN for image classification/object detection:
     1 - feature pyramid netwwork + GCN   

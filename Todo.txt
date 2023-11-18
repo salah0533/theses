@@ -4,6 +4,6 @@
     1- for specfic task search for explanability methods
 2 - search for GNN's for classification/opject detection task
 3 - GNN for image classification/object detection:
-    1 - feature pyramid netwwork + GCN   
+    1 - feature pyramid netwwork + GCN.
     2 - FPN + (CNN for classification OR any method that serv this task) # cna't do it because you sh
     

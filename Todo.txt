@@ -2,8 +2,13 @@
 1 - understand the explanability on GNN methods with specifying the cons and the task that serv
     [modifyed this task]
     1- for specfic task search for explanability methods
-2 - search for GNN's for classification/opject detection task
-3 - GNN for image classification/object detection:
-    1 - feature pyramid netwwork + GCN.
-    2 - FPN + (CNN for classification OR any method that serv this task) # cna't do it because you sh
-    
+//2 - search for GNN's for classification/opject detection task
+//3 - GNN for image classification/object detection:
+    //1 - feature pyramid netwwork + GCN.
+    //2 - FPN + (CNN for classification OR any method that serv this task) # cna't do it because you sh
+2 - implement explanability methods and evaluat them:
+    - using GraphXAI:
+        - install GraphXAI try the implemented method of explanability in it 
+        - read their paper to deeply see how they evaluat 
+3 - search if there a method that enhance the a segmentation method by gnn in medical 
+4 - explanability method for 
